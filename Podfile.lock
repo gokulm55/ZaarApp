@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.3.0)
+  - SideMenu (6.5.0)
+  - SideMenuSwift (2.0.7)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - SideMenu
+  - SideMenuSwift
+  - SVProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SideMenu
+    - SideMenuSwift
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: 2c792affbdc2f18016e08fdbcacd60aebe1ba593
+  SideMenu: f583187d21c5b1dd04c72002be544b555a2627a2
+  SideMenuSwift: ffbbc88d23741932177ad1320df837cedfb3bc5e
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: 051cdb8434a2c3cdbc20b3dc0d56cd5ef858bb77
+
+COCOAPODS: 1.10.0.rc.1
